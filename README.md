@@ -66,7 +66,7 @@ Vyhodnotenie modelu:
 Na klasifikáciu poveternostných podmienok boli použité:
 
 - Decision Tree Classifier
-- Random Forest Classifier
+- XGBoost Classifier
 
 Vyhodnotenie modelov:
 
